@@ -4,3 +4,4 @@ class Bin(BaseModel):
     id: int
     item: str
     qty: float
+    warehouse: int
